@@ -5,6 +5,38 @@ file = "config/automaticoperator.json5"
 hash = "e29d127a774ab0c0dfcd113985dd700d93cfedd3b61b623aefdc2e7d0a803a96"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "32d7a8c018ec9ca2ef82070f318ac799ef6fdd86f30cf4727df354e25fe25f9a"
+
+[[files]]
+file = "config/options.txt"
+hash = "df2d14bca50b8b323a1b9e47e9b4be359c439f79b652353d4912be214345c08b"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "5b36aeb152da44539b205ccf3e87f0edf46079f7be97aa677bf53c2f370d62d9"
+
+[[files]]
+file = "config/sodiumextras-client.toml"
+hash = "34b532fa386393dbbd1ad66d15b87ed605c356a4b68317e67870d812e331d22a"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "8e9354210ed27104f497a6e5ee175cfec0f2f5ad1cbcdf610650e4b1561606e5"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
 metafile = true
@@ -288,3 +320,7 @@ hash = "590cf304d22052ff7e3e1e5b4f096a71b11948efe0919333255c083c4b15d903"
 file = "resources/resourcepack/required/roguecraft-resource-pack.pw.toml"
 hash = "4242e66904235906271bfb1a7999c95ff03ca3d160930d9ca7d774a13e07ce65"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "d5acd84929a9871a127cfa4b56c3f7e61c09bde0ada886ee9eac70f96be0f045"

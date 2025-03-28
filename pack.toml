@@ -1,0 +1,16 @@
+name = "Rogue"
+author = "sammyette"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a53eca2710bdbfdfb8e6bbef86b5acfd19abbb77bf74455966feb50998ce3e70"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
+
+[options]
+datapack-folder = "resources/datapack/required"

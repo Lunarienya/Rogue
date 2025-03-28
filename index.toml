@@ -1,0 +1,231 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "009172fa37c8b9e43492c20c9f4fd41a59ae0e651becc82dcd8d3e7f2b75a123"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "e77924d62045c29de5694b9a9d01740f58b91dde24e0390fc0d743170c5a6a43"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "be10248b836f5c4add6d0167cea92b9203f1b45ead13f1a0416aa1d579ff582a"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "e2f502ae339d1cd7d4ff4524e47a52c75407c6f40c18cea98757ddc9b48ef2fe"
+metafile = true
+
+[[files]]
+file = "mods/chatnotify.pw.toml"
+hash = "4a32eaa74ccbe94fc636e052c3a57fc21d9b6b74c1eb14819c8d522589abd1bf"
+metafile = true
+
+[[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "84521ef11288d9db039cb5498aa6e87f079076b2a6dfd95c67c93069d261bf9e"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "3c17b4c4263b755bc8b5ad0645b03f296005c08dbb67faa49809a148fb7b8672"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "00b1eed865826108064040f568064871d75e678837f8c54e6107b51e056ef017"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "11d3ae4d547191988efc278f995021d7e70d95ddc7ee3cdcce7ad5a9e0b00ce9"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "2276666de83017c4807104775c15e93a729ee36efcd2201d5655f49a4a527cf7"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "71967a5cb410525b8e7ee0b59f5d6919733a802fcde52fd9d3dd0d75d53ea0a6"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "cb0b99047c5787dcffa2299b5927fe0ebc4993c79d7a9bc882577f87b7f731b4"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "9f71cf2f7258d20ba6bd3baedce3905eff1688f839fbe463b112b73b08899a1b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ccb0ba609f9e0e951ae2570139f5ffd67bfd26cbf2e9443c7d17fd7900171672"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9df60ec79ff1f4f0ab79b9e10863b831884a2ba277bf0a6be989d3db9d32373d"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "00d9b198ef82ecc127e22b10cb02798bf4170d8284a2f8b80a96d8275a490b35"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "6036d2d1b30328cf727f76eecdcf63dc0b7241cce72a5f143950131d2833bafd"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "5ed45a586a58ba6d0ce5d9cb2f3a497e482e2f6ab2ff9f2a4d74ddd161652c16"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "980c97c5afa0ae3d4f0683b1d13c0abe1c00c28f8438c0c62388fc2ee61ab2e5"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "a500b672a25d685d7dfd11f9fc4b2baeca7fa1ef9488369868a06410ce91314b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "7af3fc4fbcc537dea48b4ab3dbc0b6f6e0236735406644a5d5cfbc9d7e82c668"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "97608890817d0e6a374dd81bff3ecb094fb989af5581a29cf7019717a5ed16e2"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "bc4dd2f48a95390d08a863311f37ce0607765eadb48adfc1225df9e889c70783"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "0d1c7fa714249df2bfcb65fbfb0966ef06ef656e839606273ba80772f89aceaf"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+hash = "6f41414e0d06e3d6756a296ef5e250c45d62b6043d677525daf13939de5cd3fc"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
+metafile = true
+
+[[files]]
+file = "mods/refined-advancements.pw.toml"
+hash = "1e4d857df1caf5faef49f943c26e13335589ad492e67ada00d2dc18290dc28f0"
+metafile = true
+
+[[files]]
+file = "mods/saturated-eating.pw.toml"
+hash = "75f678c9c418cd696f45ed3b1dc2da84f07dd0a49a2d52f41fefa08763b41e24"
+metafile = true
+
+[[files]]
+file = "mods/shuttfup.pw.toml"
+hash = "0023d1952954dcdb88d97ba53be8bb7d02273553236d51f23bbaa9e18c6b8773"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "898ed168073d22ebec4574565edf34d5d38c87e7ae9d43c6ed56bdac5be5d005"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "87dfe81097436c6979c21a29b5b5f3e41fa1c8f25a09b206f7c024eeab9756ef"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "3f57434db035943d16737be306eaab1be3292b2986c88a5abc4173a32f51053b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "284b70d95811dbbb662c79189e9acc4e168f04508032d6eeaa39f4a307ca8fe5"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d5d62805543625151a511359787622e7f85cee33a95afeda5cae7c7f1e26fce3"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-mod-compat.pw.toml"
+hash = "1c4eb9b04622bc24dc00460016d473bf608c576297fbbd97b22908694cb44559"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "5b910794397ae375e9ef4a52c6a95fb1879f232a0f9258b9b5fc46a8c7b6015b"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "09038a43bd91daad90827c48a74bacfb15c2a9c375bb9e48475df4ec6ada4903"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "73f9718c089f37a013b844899efc1f0fa6895e41a3313cfda425213616c9c67f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c6430eb8e34c0fe0324c3a82faca187bfa40e5b42771ad74eb7fb9fed547bb5e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c275b656bc7198d1b87d0b0293a7605ffd80a9eefdf3919a724e7e2ad7411aa0"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "05d3a08ea513a83d0862274da46c31a699917d814e6cc4708518b1176c566fcb"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/rogue-craft.pw.toml"
+hash = "35a6bfdaaed7351bce68a46ebfc4da83a9d21352d293605de86a88ef9d095280"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/roguecraft-resource-pack.pw.toml"
+hash = "4242e66904235906271bfb1a7999c95ff03ca3d160930d9ca7d774a13e07ce65"
+metafile = true

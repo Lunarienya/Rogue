@@ -1,0 +1,13 @@
+name = "Roguecraft"
+filename = "Roguecraft 1.3.3 - Data Pack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HtKjVijx/versions/TmOqg3qp/Roguecraft%201.3.3%20-%20Data%20Pack.zip"
+hash-format = "sha1"
+hash = "b28c2ab5f9ce928c9eb219949622f1108d1b942a"
+
+[update]
+[update.modrinth]
+mod-id = "HtKjVijx"
+version = "TmOqg3qp"

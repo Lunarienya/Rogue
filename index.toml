@@ -9,10 +9,6 @@ file = "config/craftpresence.json"
 hash = "32d7a8c018ec9ca2ef82070f318ac799ef6fdd86f30cf4727df354e25fe25f9a"
 
 [[files]]
-file = "config/options.txt"
-hash = "df2d14bca50b8b323a1b9e47e9b4be359c439f79b652353d4912be214345c08b"
-
-[[files]]
 file = "config/sodium-mixins.properties"
 hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
@@ -270,6 +266,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "05d3a08ea513a83d0862274da46c31a699917d814e6cc4708518b1176c566fcb"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "df2d14bca50b8b323a1b9e47e9b4be359c439f79b652353d4912be214345c08b"
 
 [[files]]
 file = "resources/datapack/required/Lodestone Backport [1.21.x].zip"

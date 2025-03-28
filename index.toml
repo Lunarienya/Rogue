@@ -140,6 +140,11 @@ hash = "0d1c7fa714249df2bfcb65fbfb0966ef06ef656e839606273ba80772f89aceaf"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "5ccb85456b866d5ad30bcc793773af6dc9d94cb188418147a562da820a6941ee"
+metafile = true
+
+[[files]]
 file = "mods/quad.pw.toml"
 hash = "6f41414e0d06e3d6756a296ef5e250c45d62b6043d677525daf13939de5cd3fc"
 metafile = true
@@ -235,9 +240,49 @@ hash = "05d3a08ea513a83d0862274da46c31a699917d814e6cc4708518b1176c566fcb"
 metafile = true
 
 [[files]]
+file = "resources/datapack/required/Lodestone Backport [1.21.x].zip"
+hash = "0261e52991012bb19a364830c8657d78684f97180fa20e7759cdd82d685b4df9"
+
+[[files]]
+file = "resources/datapack/required/Lunarie Crafts Pack.zip"
+hash = "4fda67fc9742c15dfb5a744485ff914f8a12ea1c9f947571b2af14083965c6bd"
+
+[[files]]
+file = "resources/datapack/required/durability ping v1.1.10 (MC 1.21-1.21.4).zip"
+hash = "c47d51eec684fc049d3b9f9b0a2a98d40f2c6bd6656d51e70cbbe21182b811b7"
+
+[[files]]
+file = "resources/datapack/required/more effective tools v1.0.4 (MC 1.21-1.21.4).zip"
+hash = "3e5fd32d41d5cac8a06db3bd695192a16d7b987a0f71dee7a296726cf82c682c"
+
+[[files]]
 file = "resources/datapack/required/rogue-craft.pw.toml"
 hash = "35a6bfdaaed7351bce68a46ebfc4da83a9d21352d293605de86a88ef9d095280"
 metafile = true
+
+[[files]]
+file = "resources/datapack/required/timber v2.1.12 (MC 1.21-1.21.4).zip"
+hash = "024d6cb96a09cb26ea3a455b98bdda2ab163cf99fb267b9b33ee0648eede05f6"
+
+[[files]]
+file = "resources/datapack/required/unlock all recipes v2.0.11 (MC 1.21-1.21.4).zip"
+hash = "40bd7d9f8f151033a206d7ea20a72dd5067a23c1e161e02fc18fb341dab66ab6"
+
+[[files]]
+file = "resources/resourcepack/optional/Dark UI.zip"
+hash = "f05f807c16c98ece136cd36d3ac19abc492be8cf5ee9e4cef72ab79089ec5bd5"
+
+[[files]]
+file = "resources/resourcepack/optional/Lunarie Meme Pack.zip"
+hash = "cb8b2b097e9a01f599bdc728b581259d67f26d2a8eec101b7d518471cdaee873"
+
+[[files]]
+file = "resources/resourcepack/required/Lunarie Loading Screen.zip"
+hash = "cd013e8327a3d88decdfcdcb088db75f8906650b90facf7752e5c0d87b8acdee"
+
+[[files]]
+file = "resources/resourcepack/required/Lunarie Tweaks.zip"
+hash = "590cf304d22052ff7e3e1e5b4f096a71b11948efe0919333255c083c4b15d903"
 
 [[files]]
 file = "resources/resourcepack/required/roguecraft-resource-pack.pw.toml"

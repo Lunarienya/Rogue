@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/automaticoperator.json5"
+hash = "e29d127a774ab0c0dfcd113985dd700d93cfedd3b61b623aefdc2e7d0a803a96"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
+metafile = true
+
+[[files]]
+file = "mods/automatic-operator.pw.toml"
+hash = "63097fe300c383716b4f4826f487af31da54f28e717279cc1f6fb01622a1a839"
 metafile = true
 
 [[files]]
